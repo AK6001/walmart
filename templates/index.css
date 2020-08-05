@@ -1,0 +1,28 @@
+
+.login{
+    font-size: medium;
+    margin: 0em;
+    padding: 0em;
+    text-align: center;
+    font-family: 'arial';
+    position: absolute;
+    top: 27%;
+    left: 50%;
+    transform: translate(-40%);
+  }
+
+
+html,body{
+    background-image: url(image1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%
+    
+}
+h1{
+    font-family:courier,arial,helvetica;
+    font-size: xx-large;
+    color: whitesmoke;
+    font-style: normal;
+}
